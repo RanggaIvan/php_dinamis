@@ -45,7 +45,7 @@
   <div class="row">
     <div class="col-4">
       <div class="card mx-auto" style="width: 20rem;">
-  <img src="assets/windah.jpg" class="card-img-top" style="width: 20rem;">
+  <img src="assets/img/windah.jpg" class="card-img-top" style="width: 20rem;">
   <div class="card-body">
     <p class="card-text">WIK WIK WIKA WIKA </p>
   </div>
@@ -53,9 +53,9 @@
     </div>
     <div class="col-8">
      <h1>SELAMAT DATANG DIWEBSITE SAYA</h1>  
-     <h6>Halo saya rangga ivan fadly saya siswa di smk jp 1 saya masuk jurusan rpl karna saya ingin membuat banyak website.
+     <p>Halo saya rangga ivan fadly saya siswa di smk jp 1 saya masuk jurusan rpl karna saya ingin membuat banyak website.
       Terimakasih sudah mampir.      
-     </h6>
+    </p>
 
     </div>
   </div>
@@ -66,19 +66,23 @@
 <div class="container" id="alamat">
   <div class="row">
     <div class="col-8">
-      <div class="card mx-auto" style="width: 20rem;">
-  <img src="assets/windah.jpg" class="card-img-top" style="width: 20rem;">
-  <div class="card-body">
-    <p class="card-text">WIK WIK WIKA WIKA </p>
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/slide/1.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/slide/2.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/slide/3.jpg" class="d-block w-100" alt="...">
+    </div>
   </div>
 </div>
     </div>
     <div class="col-4">
-     <h1>SELAMAT DATANG DIWEBSITE SAYA</h1>  
-     <p>Halo saya rangga ivan fadly saya siswa di smk jp 1 saya masuk jurusan rpl karna saya ingin membuat banyak website.
-      Terimakasih sudah mampir.      
-</p>
-
+    <h1>ALAMAT SAYA</h1>
+    <p>jl.Tanjung Selor No. 21 RT 10/RW 007</p>
     </div>
   </div>
 </div>
